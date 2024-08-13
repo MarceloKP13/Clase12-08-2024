@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|c:\\users\\user\\source\\repos\\clase12-08-2024\\clase12-08-2024\\persona1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|solutionrelative:clase12-08-2024\\persona1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|c:\\users\\user\\source\\repos\\clase12-08-2024\\clase12-08-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|solutionrelative:clase12-08-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|c:\\users\\user\\source\\repos\\clase12-08-2024\\clase12-08-2024\\mate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|solutionrelative:clase12-08-2024\\mate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|c:\\users\\user\\source\\repos\\clase12-08-2024\\clase12-08-2024\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51217FF1-6739-4CB3-9938-691F646CDC1B}|Clase12-08-2024\\Clase12-08-2024.csproj|solutionrelative:clase12-08-2024\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Program.cs",
+              "RelativeDocumentMoniker": "Clase12-08-2024\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Program.cs",
+              "RelativeToolTip": "Clase12-08-2024\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwEMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:35:08.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Persona1.cs",
+              "RelativeDocumentMoniker": "Clase12-08-2024\\Persona1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Persona1.cs",
+              "RelativeToolTip": "Clase12-08-2024\\Persona1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:24:38.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Operacion.cs",
+              "RelativeDocumentMoniker": "Clase12-08-2024\\Operacion.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Operacion.cs",
+              "RelativeToolTip": "Clase12-08-2024\\Operacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:15:56.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Mate.cs",
+              "RelativeDocumentMoniker": "Clase12-08-2024\\Mate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Clase12-08-2024\\Clase12-08-2024\\Mate.cs",
+              "RelativeToolTip": "Clase12-08-2024\\Mate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:21:14.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
